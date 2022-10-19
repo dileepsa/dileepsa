@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Lenovo Unity**
 
-- 🌱 I’m currently learning **C# , .net**
+- 🌱 I’m currently learning **C# , .Net**
 
-- 💬 Ask me about **Node JS , Javascript ,C#, Bash**
+- 💬 Ask me about **Node JS, Javascript, C#, Bash, HTML, CSS, Express JS, Java**
 
 - 📫 How to reach me **dileepannavarapu2000@gmail.com**
 
