@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# , .Net**
 
-- 💬 Ask me about **Node JS, Javascript, C#, Bash, HTML, CSS, Express JS, Java**
+- 💬 Ask me about **Node JS, Javascript, C#, Java, Clojure, HTML, CSS, Express JS, Bash, Powershell**
 
 - 📫 How to reach me **dileepannavarapu2000@gmail.com**
 
