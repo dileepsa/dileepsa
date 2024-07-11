@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dileep A</h1>
 <h3 align="center">A passionate Application Developer from India</h3>
 
-- 🔭 I’m currently working on **Lenovo Unity**
+- 🔭 I’m currently working in **Thoughtworks Technologies pvt ltd**
 
-- 🌱 I’m currently learning **C# , .Net**
+- 🌱 I’m currently learning **React native and java spring boot**
 
-- 💬 Ask me about **Node JS, Javascript, C#, Java, Clojure, HTML, CSS, Express JS, Bash, Powershell**
+- 💬 Ask me about **React native, React, Node JS, Javascript, C#, Java, Clojure, HTML, CSS, Express JS, Bash, Powershell**
 
 - 📫 How to reach me **dileepannavarapu2000@gmail.com**
 
